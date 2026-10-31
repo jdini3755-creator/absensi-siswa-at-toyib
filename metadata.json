@@ -1,0 +1,6 @@
+{
+  "name": "SMP Islam At-Toyib 45 - Aplikasi Absensi Siswa",
+  "description": "Aplikasi digital absensi siswa, jadwal pelajaran, nilai, dan rekap kehadiran SMP Islam At-Toyib 45 dengan mode online dan offline.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
